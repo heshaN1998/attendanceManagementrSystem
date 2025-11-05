@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/AMSystem/ams/src/service/UserService.java</file>
+            <file>file:/D:/AMSystem/ams/src/service/CourseService.java</file>
+            <file>file:/D:/AMSystem/ams/src/model/User.java</file>
+            <file>file:/D:/AMSystem/ams/src/dao/UserDAO.java</file>
+            <file>file:/D:/AMSystem/ams/src/model/Lecturer.java</file>
+            <file>file:/D:/AMSystem/ams/src/service/ClassScheduleService.java</file>
+            <file>file:/D:/AMSystem/ams/src/ui/LoginUI.java</file>
+            <file>file:/D:/AMSystem/ams/src/dao/AttendanceDAO.java</file>
+            <file>file:/D:/AMSystem/ams/src/model/ClassSchedule.java</file>
+            <file>file:/D:/AMSystem/ams/src/ui/LecturerDashbordUI.java</file>
+            <file>file:/D:/AMSystem/ams/src/database/AMS_schema.sql</file>
+            <file>file:/D:/AMSystem/ams/src/config/DBConfig.java</file>
+            <file>file:/D:/AMSystem/ams/src/dao/CourseDAO.java</file>
+            <file>file:/D:/AMSystem/ams/src/service/StudentService.java</file>
+            <file>file:/D:/AMSystem/ams/src/model/Course.java</file>
+            <file>file:/D:/AMSystem/ams/src/service/AttendanceService.java</file>
+            <file>file:/D:/AMSystem/ams/src/model/Attendance.java</file>
+            <file>file:/D:/AMSystem/ams/src/model/Student.java</file>
+            <file>file:/D:/AMSystem/ams/src/ui/AdminDashbordUI.java</file>
+            <file>file:/D:/AMSystem/ams/src/service/LecturerService.java</file>
+            <file>file:/D:/AMSystem/ams/src/dao/LecturerDAO.java</file>
+            <file>file:/D:/AMSystem/ams/src/AMS/AMSApplication.java</file>
+            <file>file:/D:/AMSystem/ams/src/dao/StudentDAO.java</file>
+            <file>file:/D:/AMSystem/ams/src/dao/ClassScheduleDAO.java</file>
+        </group>
+    </open-files>
+</project-private>

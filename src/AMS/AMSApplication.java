@@ -9,5 +9,7 @@ package AMS;
  * @author ACER
  */
 public class AMSApplication {
-    
+    public static void main(String[] args) {
+        Application.launch(LoginUI.class, args);
+}
 }
