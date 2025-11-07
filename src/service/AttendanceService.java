@@ -13,7 +13,7 @@ import java.util.List;
  *
  * @author ACER
  */
-class AttendanceService {
+public class AttendanceService {
     private AttendanceDAO attendanceDAO = new AttendanceDAO();
     
     public boolean markAttendance(Attendance attendance) {

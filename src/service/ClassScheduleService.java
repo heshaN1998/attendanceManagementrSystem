@@ -10,7 +10,7 @@ import java.util.List;
  *
  * @author ACER
  */
-class ClassScheduleService {
+public class ClassScheduleService {
     private ClassScheduleDAO scheduleDAO = new ClassScheduleDAO();
     
     public boolean createSchedule(ClassSchedule schedule) {

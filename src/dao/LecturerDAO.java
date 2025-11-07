@@ -12,7 +12,7 @@ import java.util.List;
  *
  * @author ACER
  */
-class LecturerDAO {
+public class LecturerDAO {
     public boolean create(Lecturer lecturer) {
         String sql = "INSERT INTO lecturers (emp_no, name, email, phone, subject) VALUES (?,?,?,?,?)";
         try (Connection conn = DBConfig.getConnection();

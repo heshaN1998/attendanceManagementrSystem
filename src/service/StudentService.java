@@ -10,7 +10,7 @@ import java.util.List;
  *
  * @author ACER
  */
-class StudentService {
+public class StudentService {
     private StudentDAO studentDAO = new StudentDAO();
     
     public boolean registerStudent(Student student) {

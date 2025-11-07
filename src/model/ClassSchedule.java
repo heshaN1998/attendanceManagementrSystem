@@ -8,7 +8,7 @@ package model;
 import java.time.LocalDate;
 
 
- class ClassSchedule {
+ public class ClassSchedule {
     private int id;
     private int courseId;
     private int lecturerId;

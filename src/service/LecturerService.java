@@ -10,7 +10,7 @@ import java.util.List;
  *
  * @author ACER
  */
-class LecturerService {
+public class LecturerService {
     private LecturerDAO lecturerDAO = new LecturerDAO();
     
     public boolean addLecturer(Lecturer lecturer) {

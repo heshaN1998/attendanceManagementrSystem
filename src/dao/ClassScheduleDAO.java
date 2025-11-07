@@ -12,7 +12,7 @@ import java.util.List;
  *
  * @author ACER
  */
-class ClassScheduleDAO {
+public class ClassScheduleDAO {
     public boolean create(ClassSchedule cs) {
         String sql = "INSERT INTO class_schedules (course_id, lecturer_id, subject, date, time) VALUES (?,?,?,?,?)";
         try (Connection conn = DBConfig.getConnection();

@@ -6,7 +6,7 @@ package model;
 
 import java.time.LocalDateTime;
 
-class Attendance {
+public class Attendance {
     private int id;
     private int studentId;
     private int classId;

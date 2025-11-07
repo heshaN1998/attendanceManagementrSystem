@@ -23,9 +23,9 @@ import javafx.scene.layout.*;
 import javafx.stage.Stage;
 
 public class AdminDashboardUI extends Application {
-    private CourseService courseService = new CourseService();
-    private StudentService studentService = new StudentService();
-    private LecturerService lecturerService = new LecturerService();
+    private final CourseService courseService = new CourseService();
+    private final StudentService studentService = new StudentService();
+    private final LecturerService lecturerService = new LecturerService();
     
     @Override
     public void start(Stage stage) {

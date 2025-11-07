@@ -10,7 +10,7 @@ import java.util.List;
  *
  * @author ACER
  */
-class CourseService {
+public class CourseService {
     private CourseDAO courseDAO = new CourseDAO();
     
     public boolean addCourse(Course course) {

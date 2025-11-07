@@ -9,9 +9,11 @@
             <file>file:/D:/AMSystem/ams/src/dao/UserDAO.java</file>
             <file>file:/D:/AMSystem/ams/src/model/Lecturer.java</file>
             <file>file:/D:/AMSystem/ams/src/service/ClassScheduleService.java</file>
+            <file>file:/D:/AMSystem/ams/src/ui/LoginUI.java</file>
             <file>file:/D:/AMSystem/ams/src/dao/AttendanceDAO.java</file>
             <file>file:/D:/AMSystem/ams/src/model/ClassSchedule.java</file>
             <file>file:/D:/AMSystem/ams/src/database/AMS_schema.sql</file>
+            <file>file:/D:/AMSystem/ams/src/ui/AdminDashboardUI.java</file>
             <file>file:/D:/AMSystem/ams/src/config/DBConfig.java</file>
             <file>file:/D:/AMSystem/ams/src/dao/CourseDAO.java</file>
             <file>file:/D:/AMSystem/ams/src/service/StudentService.java</file>
@@ -19,6 +21,7 @@
             <file>file:/D:/AMSystem/ams/src/service/AttendanceService.java</file>
             <file>file:/D:/AMSystem/ams/src/model/Attendance.java</file>
             <file>file:/D:/AMSystem/ams/src/model/Student.java</file>
+            <file>file:/D:/AMSystem/ams/src/ui/LecturerDashboardUI.java</file>
             <file>file:/D:/AMSystem/ams/src/service/LecturerService.java</file>
             <file>file:/D:/AMSystem/ams/src/dao/LecturerDAO.java</file>
             <file>file:/D:/AMSystem/ams/src/AMS/AMSApplication.java</file>

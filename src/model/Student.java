@@ -9,7 +9,7 @@ package model;
  *
  * @author ACER
  */
-class Student {
+public class Student {
     private int id;
     private String regNo;
     private String name;

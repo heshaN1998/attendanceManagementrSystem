@@ -20,7 +20,7 @@ import javafx.scene.layout.*;
 import javafx.stage.Stage;
 
 public class LoginUI extends Application {
-    private UserService userService = new UserService();
+    private final UserService userService = new UserService();
     
     @Override
     public void start(Stage stage) {

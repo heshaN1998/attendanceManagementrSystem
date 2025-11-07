@@ -103,18 +103,18 @@ INSERT INTO lecturers (emp_no, name, email, phone, subject) VALUES
 
 -- Insert sample class schedules
 INSERT INTO class_schedules (course_id, lecturer_id, subject, date, time) VALUES 
-(1, 1, 'Programming Basics', '2025-11-05', '1000 AM'),
-(1, 1, 'Control Structures', '2025-11-06', '1000 AM'),
-(2, 2, 'Arrays and Lists', '2025-11-05', '0200 PM'),
-(3, 3, 'SQL Fundamentals', '2025-11-07', '0900 AM');
+(1, 1, 'Programming Basics', '2025-11-05', '10:00 AM'),
+(1, 1, 'Control Structures', '2025-11-06', '10:00 AM'),
+(2, 2, 'Arrays and Lists', '2025-11-05', '02:00 PM'),
+(3, 3, 'SQL Fundamentals', '2025-11-07', '09:00 AM');
 
 -- Insert sample attendance records
 INSERT INTO attendance (student_id, class_id, status, marked_at) VALUES 
-(1, 1, 'PRESENT', '2025-11-05 100500'),
-(2, 1, 'PRESENT', '2025-11-05 100500'),
-(5, 1, 'ABSENT', '2025-11-05 100500'),
-(3, 3, 'PRESENT', '2025-11-05 140500'),
-(4, 3, 'PRESENT', '2025-11-05 140500');
+(1, 1, 'PRESENT', '2025-11-05 10:05:00'),
+(2, 1, 'PRESENT', '2025-11-05 10:05:00'),
+(5, 1, 'ABSENT', '2025-11-05 10:05:00'),
+(3, 3, 'PRESENT', '2025-11-05 14:05:00'),
+(4, 3, 'PRESENT', '2025-11-05 14:05:00');
 
 -- ==============================================================
 -- CREATE INDEXES FOR BETTER PERFORMANCE

@@ -5,7 +5,7 @@
 package model;
 
 
-class Course {
+public class Course {
     private int id;
     private String code;
     private String name;

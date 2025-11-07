@@ -5,7 +5,7 @@
 package model;
 
 
-class Lecturer {
+public class Lecturer {
     private int id;
     private String empNo;
     private String name;

@@ -14,7 +14,7 @@ import java.util.List;
  *
  * @author ACER
  */
-class AttendanceDAO {
+public class AttendanceDAO {
     public boolean markAttendance(Attendance att) {
         String sql = "INSERT INTO attendance (student_id, class_id, status, marked_at) VALUES (?,?,?,?)";
         try (Connection conn = DBConfig.getConnection();
