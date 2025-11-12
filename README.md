@@ -5,12 +5,12 @@ PROJECT OVERVIEW_
 		i have to coded 7 dtos,6 daos,6 service,3 uis and database connectivity.
 		i used pure Java/JDBC/JavaFX and MySQL  as tecnologies.admin can control full system and lecturer
 		can mark attendance & view reports.
-		main functions are Role based login,CRUD operation,Mark attendance,generate attendance report
+		main functions are Role based login,CRUD operation,Mark attendance,generate attendance report.
 
 		
 		
 
-ams PACKAGE_
+	ams PACKAGE_
 		ENTRY-
 		       	AMSApplication{AMSApplication.java}
 
@@ -32,20 +32,20 @@ ams PACKAGE_
 			ui{LoginUI/AdminDashboardUI/LecturerDashboardUI}
 
 
-TOOLS & TECHNOLOGIES_
-		[NETBEAM IDE/PURE JAVA/MYSQL/JDBC/JAVAFX/GIT & GITHUB]
+TOOLS & TECHNOLOGIES:
+		NETBEAM IDE/PURE JAVA/MYSQL/JDBC/JAVAFX/GIT & GITHUB
 
-USES_
+USES:
 		Layered Architecture
 
 
-LOGIN CREDENTIALS_
-			Admin_
-				name-admin
-				password-admin123
-			Lecturer_
-				name-lecturer1
-				password-lect123
+LOGIN CREDENTIALS:
+			Admin:
+				name:admin
+				password:admin123
+			Lecturer:
+				name:lecturer1
+				password:lect123
 
 
 		
